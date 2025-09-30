@@ -2,8 +2,6 @@
 
 A collection of artificial intelligence and machine learning algorithms implemented in Python for academic coursework.
 
-## Repository Structure
-
 ## Search Algorithms
 
 - **8puzzle.py** - 8-puzzle solver implementation
